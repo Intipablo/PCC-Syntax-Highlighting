@@ -15,3 +15,5 @@ Instructions:
 # An Example of Syntax Highlighting in Notepad++
 
 <a href="http://imgur.com/qQ7w3LS"><img src="http://i.imgur.com/qQ7w3LS.png" title="source: imgur.com" /></a>
+
+------------------------------------------------------------------------------------------------------------------------------------------
