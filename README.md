@@ -12,4 +12,6 @@ Instructions:
 - In this new window, Look for the "import" button, now press it and open the NotepadSyntaxHighlighting.xml file.
 - Now you can close this window, and if you go back into the "Language" tab, when you scroll to the bottom, "Mc Command Language" should be there, select it and now you can code freely with the wonders of syntax highlighting!
 
+# An Example of Syntax Highlighting in Notepad++
+
 <a href="http://imgur.com/qQ7w3LS"><img src="http://i.imgur.com/qQ7w3LS.png" title="source: imgur.com" /></a>
