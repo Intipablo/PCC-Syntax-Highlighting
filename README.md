@@ -1,7 +1,8 @@
 # PCC-Syntax-Highlighting
-Repository containing all files related to PCC Syntax highlighting in numerous code editors/programs.
 
-# Notepad++
+This repository contains all files related to the custom Syntax Highlighting of PCC https://github.com/pca006132/PCC in several different code editors.
+
+# Notepad++ ~ Intipablo
 
 Fortunately, Notepad++ is very easy to work with in terms of custom user-defined languages. So I was able to put this together very quickly. The installation process is very simple aswell.
 
